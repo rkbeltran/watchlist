@@ -96,8 +96,4 @@ else:
     st.warning("Your watchlist is empty :) Add shows to get started!")
 
 st.divider()
-<<<<<<< HEAD
 st.image("Images/second-years.jpeg")
-=======
-st.image("Images/second-years.jpeg")
->>>>>>> badc5621c6373821ef9cd32f90820eb9de6e9698
