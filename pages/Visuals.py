@@ -15,7 +15,7 @@ st.set_page_config(
 # PAGE TITLE AND INFORMATION
 st.title("Data Visualizations 📈")
 st.write("This page displays graphs based on the collected data.")
-st.image("images/satosugu.jpeg")
+st.image("Images/satosugu.jpeg")
 
 # DATA LOADING
 # A crucial step is to load the data from the files.
